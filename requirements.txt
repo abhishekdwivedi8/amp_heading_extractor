@@ -1,0 +1,37 @@
+# amp_heading_extractor - PDF Heading Extraction System
+# Root requirements file for the complete system
+
+# PDF Processing Libraries
+PyMuPDF>=1.23.0
+pdfplumber>=0.9.0
+PyPDF2>=3.0.0
+
+# Core ML/NLP Libraries
+sentence-transformers>=2.2.0
+xgboost>=1.7.0
+lightgbm>=3.3.0
+fasttext>=0.9.0
+spacy>=3.5.0
+
+# Deep Learning and ML
+torch>=1.13.0
+transformers>=4.20.0
+scikit-learn>=1.1.0
+
+# Data Processing
+numpy>=1.21.0
+pandas>=1.4.0
+pyyaml>=6.0
+
+# Utilities
+pathlib2>=2.3.0
+tqdm>=4.64.0
+click>=8.0.0
+
+# Optional: Development and testing
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
+
+# System utilities for Docker compatibility
+psutil>=5.9.0

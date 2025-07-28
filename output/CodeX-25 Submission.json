@@ -1,0 +1,25 @@
+{
+  "title": "Codex 25 Submission",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "Name of Members",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Name of Team",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Problem Statement",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Tech Stack We Are Using...",
+      "page": 4
+    }
+  ]
+}
